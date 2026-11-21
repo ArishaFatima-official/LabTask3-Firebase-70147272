@@ -63,7 +63,7 @@ faults
 ```
 
 ## Author
-- **Name:** <your name>
-- **SAP ID:** <your SAP ID>
-- **Section:** <your section>
+- **Name:** Arisha  Fatima
+- **SAP ID:** 70147272
+- **Section:** T
 - **Course:** Mobile Application Development, University of Lahore
